@@ -6,7 +6,7 @@ The classification notebook contains the code where we performed the image class
 
 The feature extractor notebook contains code where the ViT tranformer is used to extract features from X-Ray images.
 
-The xml-to-csv notebook contains the code where we have performed parsing. We had the radiology reports from the IU-xray dataset in xml format having several tags,we parsed them , found the important ones and stored them in a csv file for future use.
+The tag_extractor notebook contains the code where we have performed parsing. We had the radiology reports from the IU-xray dataset in xml format having several tags, we parsed them, found the important ones and stored them in a csv file for future use.
 
 Datasets - 
 https://drive.google.com/drive/folders/1-DDSWQcAvDPrppwBHmrn-UFPl41lY6wA?usp=sharing
