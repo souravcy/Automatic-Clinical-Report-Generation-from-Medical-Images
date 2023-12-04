@@ -1,4 +1,4 @@
-# X-Ray-report-Segmentation-and-Classification
+# Automatic Clinical Report Generation from Medical Images
 
 The segmentation notebook contains the code where we have performed image segmentation on the chest xray images that we collected from kaggle having the corresponding masks to find the region of interest.
 
