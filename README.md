@@ -1,6 +1,6 @@
 # Automatic Clinical Report Generation from Medical Images
 
-The segmentation notebook contains the code where we have performed image segmentation on the chest xray images that we collected from kaggle having the corresponding masks to find the region of interest.
+The segmentation notebook contains the code where ,we have performed image segmentation on the chest xray images that we collected from kaggle having the corresponding masks to find the region of interest .
 
 The classification notebook contains the code where we performed the image classification on three categories- covid19, pneumonia and normal.
 
